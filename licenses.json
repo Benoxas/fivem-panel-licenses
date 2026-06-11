@@ -1,9 +1,9 @@
 {
   "_comment": "License allowlist for the FiveM panel. Each key below is the SHA-256 hash of a customer's LICENSE_KEY. Generate a hash with: node scripts/license-hash.mjs <key>. To revoke a customer, delete their line or set active:false. Edit this file directly on GitHub (pencil icon) — changes go live within ~1 hour.",
 
-  "REPLACE_WITH_SHA256_OF_YOUR_FIRST_KEY": {
+  "624371cad229aa729e15daacd9e6a326e0f54232dbdf4dc7da657786965c1786": {
     "active": true,
-    "domain": "panel.customer-one.com",
-    "expires": "2026-12-31"
+    "domain": "localhost:3000",
+    "expires": "2056-12-31"
   }
 }
