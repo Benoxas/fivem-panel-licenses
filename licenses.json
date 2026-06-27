@@ -5,5 +5,9 @@
     "active": true,
     "domain": "localhost:3000",
     "expires": "2056-12-31"
+  },
+
+  "05f145c680a76c13d23321a09562228feb022747c7b60227face88c19cbcaa2a": {
+    "active": true
   }
 }
